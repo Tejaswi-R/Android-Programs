@@ -1,0 +1,7 @@
+ x<resources>
+    <string name="app_name">Assignment4.2</string>
+    <string name="uname">User Name</string>
+    <string name="tw_comment">Comment</string>
+    <string name="btn_submit">Submit</string>
+    <string name="AllEntriesView"></string>
+</resources>

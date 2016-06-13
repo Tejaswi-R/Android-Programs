@@ -1,0 +1,21 @@
+<resources>
+    <string name="app_name">Assignment5.2</string>
+    <string name="user_name">User Name: </string>
+    <string name="edit_name"></string>
+    <string name="user_hobbies">Hobbies: </string>
+    <string name="edit_hobbies"></string>
+    <string name="user_gender">Gender: </string>
+    <string name="user_male">Male </string>
+    <string name="user_female">Female </string>
+
+    <string name="user_phone">Phone No. </string>
+    <string name="edit_phone"></string>
+
+    <string name="btn_submit">Submit</string>
+
+    <string name="search_name">Search by Name:</string>
+    <string name="edit_nameSearch"></string>
+    <string name="search_phone">Search by phone:</string>
+
+    <string name="edit_phoneSearch"></string>
+</resources>

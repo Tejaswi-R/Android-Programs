@@ -1,0 +1,28 @@
+<resources>
+    <string name="app_name">Assignment6.1</string>
+
+    <string name="event_name">Event Name: </string>
+    <string name="edit_eventName">Event Name: </string>
+    <string name="event_place">Event Place:</string>
+
+    <string-array name="event_placeArray">
+        <item>Kiel</item>
+        <item>Hamburg</item>
+        <item>Frankfurt</item>
+        <item>Munich</item>
+        <item>Berlin</item>
+        <item>Stutgart</item>
+        <item>Keoln</item>
+        <item>Hannover</item>
+    </string-array>
+
+    <string name="event_date">Event Date:</string>
+    <string name="edit_date"></string>
+    <string name="event_time">Event Time: </string>
+    <string name="edit_time"></string>
+    <string name="btn_Submit">Submit Form</string>
+    <string name="show_data"></string>
+
+    <string name="configure_display">Display Personalization</string>
+
+</resources>

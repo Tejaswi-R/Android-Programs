@@ -1,0 +1,15 @@
+<resources>
+    <string name="app_name">Assignment9.1</string>
+
+    <string name="tv_id">ID</string>
+    <string name="txt_uname">Username</string>
+    <string name="txt_pass">Password</string>
+
+    <string name="txt_fname">First Name</string>
+    <string name="txt_lname">Last Name</string>
+    <string name="pnum">Phone Number</string>
+    <string name="hobbies">Hobbies</string>
+    <string name="gender">Gender</string>
+    <string name="btn_save">Save</string>
+
+</resources>

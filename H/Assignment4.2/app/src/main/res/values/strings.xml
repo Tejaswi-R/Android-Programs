@@ -1,0 +1,14 @@
+<resources>
+    <string name="app_name">Assignment4.2</string>
+
+    <string name="myBlog">My Blog</string>
+    <string name="uName">User Name: </string>
+    <string name="eName"></string>
+    <string name="lComment">Comment: </string>
+    <string name="eComment"></string>
+    <string name="btn_submit">Submit</string>
+
+    <string name="AllEntriesView"></string>
+
+
+</resources>

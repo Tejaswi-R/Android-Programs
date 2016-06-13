@@ -1,0 +1,30 @@
+<resources>
+    <string name="app_name">Assignment7.2</string>
+    <string name="username_label">Username:</string>
+    <string name="btn_submit_txt">Submit</string>
+
+    <string name="btn_login_txt">Login</string>
+    <string name="username_txt">Username is:</string>
+    <string name="login_username_txt">Username:</string>
+    <string name="login_password_txt">Password:</string>
+
+    <string name="title_activity_login">Login Activity</string>
+    <string name="hello_world">Hello world!</string>
+    <string name="title_activity_new_login">NewLoginActivity</string>
+
+
+    <string name="event_name">Event Name: </string>
+    <string name="edit_eventName">Event Name: </string>
+    <string name="event_date">Event Date:</string>
+    <string name="btn_dialog">Select Places</string>
+    <string name="dialog_title">"Select Place"</string>
+    <string name="dialog_positive_txt">OK</string>
+    <string name="dialog_negative_txt">Cancel</string>
+    <string name="check_txt">checked?</string>
+    <string name="edit_date"></string>
+    <string name="event_time">Event Time: </string>
+    <string name="edit_time"></string>
+    <string name="btn_Submit">Submit Form</string>
+    <string name="show_data"></string>
+
+</resources>

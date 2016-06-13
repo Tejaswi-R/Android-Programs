@@ -1,0 +1,15 @@
+<resources>
+    <string name="app_name">Assignment6.1</string>
+    <string name="uname">Username</string>
+    <string name="place"> Select Place</string>
+    <string-array name="sp_place">
+        <item> Munich</item>
+        <item> Hamburg</item>
+        <item> Kiel</item>
+        <item> Berlin</item>
+        <item> Karlsruhe</item>
+    </string-array>
+    <string name="date">Date</string>
+    <string name="time">Time</string>
+    <string name="create">Create</string>
+</resources>

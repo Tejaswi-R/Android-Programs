@@ -1,0 +1,10 @@
+<resources>
+    <string name="app_name">Assignment2.2</string>
+    <string name="fname">First Name</string>
+    <string name="lname">Last Name</string>
+    <string name="pnum">Phone Number</string>
+    <string name="chk_remem_user">Remember User</string>
+    <string name="tw_comment">Comment</string>
+    <string name="send_button_text">Send</string>
+    <string name="reset_button_text">Reset</string>
+</resources>

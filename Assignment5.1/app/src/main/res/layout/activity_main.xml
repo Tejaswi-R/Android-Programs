@@ -1,0 +1,51 @@
+<?xml version="1.0" encoding="utf-8"?>
+<RelativeLayout xmlns:android="http://schemas.android.com/apk/res/android"
+xmlns:tools="http://schemas.android.com/tools"
+android:layout_width="fill_parent"
+android:layout_height="fill_parent"
+android:background="#ffffff"
+android:tag="yellow"
+    >
+<TextView
+    android:id="@+id/tw_comment"
+    android:layout_width="wrap_content"
+    android:layout_height="wrap_content"
+    android:layout_alignParentTop="true"
+    android:layout_alignParentLeft="true"
+    android:text="@string/tw_comment" />
+<EditText
+    android:id="@+id/et_comment"
+    android:layout_width="fill_parent"
+    android:layout_height="170dp"
+    android:textSize="16sp"
+    android:layout_alignLeft="@+id/tw_comment"
+    android:layout_below="@+id/tw_comment"
+    android:layout_centerHorizontal="true"
+    android:inputType="text" >
+    <requestFocus />
+</EditText>
+<Button
+    android:id="@+id/btn_send"
+    android:layout_width="125dp"
+    android:layout_height="wrap_content"
+    android:text="@string/btn_send"
+    android:layout_below="@+id/et_comment"
+    android:layout_alignRight="@+id/et_comment"
+    android:tag="red"
+    />
+<Button
+    android:id="@+id/btn_reset"
+    android:layout_width="124dp"
+    android:layout_height="wrap_content"
+    android:text="@string/btn_reset"
+    android:layout_below="@+id/et_comment"
+    android:layout_alignLeft="@+id/et_comment"
+    />
+<TextView
+    android:id="@+id/summary_tw"
+    android:layout_width="wrap_content"
+    android:layout_height="wrap_content"
+    android:layout_below="@id/btn_reset"
+    android:layout_centerHorizontal="true"
+    />
+</RelativeLayout>

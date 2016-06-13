@@ -1,0 +1,19 @@
+<resources>
+    <string name="app_name">Assignment7.1</string>
+
+
+    <string name="event_name">Event Name: </string>
+    <string name="edit_eventName">Event Name: </string>
+    <string name="event_date">Event Date:</string>
+    <string name="btn_dialog">Select Places</string>
+    <string name="dialog_title">"Select Place"</string>
+    <string name="dialog_positive_txt">OK</string>
+    <string name="dialog_negative_txt">Cancel</string>
+    <string name="check_txt">checked?</string>
+    <string name="edit_date"></string>
+    <string name="event_time">Event Time: </string>
+    <string name="edit_time"></string>
+    <string name="btn_Submit">Submit Form</string>
+    <string name="show_data"></string>
+
+</resources>

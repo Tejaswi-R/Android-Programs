@@ -1,0 +1,13 @@
+<?xml version="1.0" encoding="utf-8" ?>
+<resources>
+    <string name="app_name">Assignment3.1</string>
+    <string name="fname">First Name</string>
+    <string name="lname">Last Name</string>
+    <string name="birthday">Birth Date</string>
+    <string name="email">Email Address</string>
+    <string name="phone">Phone Number</string>
+    <string name="address">Address</string>
+    <string name="date">Date</string>
+    <string name="chk_remem_user">Remember User</string>
+    <string name="login_button_text">Login</string>
+</resources>
